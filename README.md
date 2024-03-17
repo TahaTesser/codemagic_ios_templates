@@ -1,10 +1,8 @@
 # codemagic_ios_template
 
-Flutter Codemagic iOS Template
+This repository is a starting point to setup `codemagic.yaml` configuration to build and publish a native iOS app on Codemagic.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 1.  Clone this repository or copy the [codemagic.yaml](./codemagic.yaml) file and add it to your existing native iOS project.
 
