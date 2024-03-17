@@ -6,12 +6,12 @@ workflows:
     environment:
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: BUNDLE_ID
+        bundle_identifier: BUNDLE_ID # Replace with your bundle identifier
       vars:
-        BUNDLE_ID: "BUNDLE_ID"
-        XCODE_WORKSPACE: "xxx.xcworkspace"
-        XCODE_SCHEME: "xxx"
-        APP_STORE_APPLE_ID: 0000000000
+        BUNDLE_ID: "BUNDLE_ID" # Replace with your bundle identifier
+        XCODE_WORKSPACE: "xxx.xcworkspace" # Replace with your xcode workspace
+        XCODE_SCHEME: "xxx" # Replace with your xcode scheme
+        APP_STORE_APPLE_ID: 0000000000 # Replace with your app store apple id
       xcode: latest
       cocoapods: default
     scripts:
