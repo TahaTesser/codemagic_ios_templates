@@ -1,4 +1,4 @@
-# codemagic_ios_template
+# codemagic_ios_templates
 
 This repository is a starting point to setup `codemagic.yaml` configuration to build and publish a native iOS app on Codemagic.
 
